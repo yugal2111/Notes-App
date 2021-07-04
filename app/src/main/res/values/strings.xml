@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="title">Title...</string>
+    <string name="notes">Notes...</string>
+    <string name="subtitle">SubTitle...</string>
+    <string name="priority">Priority</string>
+    <string name="are_you_sure_want_to_delete_n_this_note">Are you sure want to delete\n this note?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_filter">No Filter</string>
+    <string name="low_to_high">Low to High</string>
+    <string name="high_to_low">High to Low</string>
+</resources>
