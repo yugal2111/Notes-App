@@ -1,3 +1,6 @@
+
+
+
 # Notes-App
 ## Description
 * Used Live Data for add your notes.
@@ -45,7 +48,8 @@
 
 ### Project Explanation
 
-https://user-images.githubusercontent.com/70057381/121918169-6d05ac00-cd53-11eb-9ff0-88dd8f5abd5e.mp4
+https://user-images.githubusercontent.com/70057381/124414863-26630a80-dd71-11eb-90f5-29c57c453945.mp4
+
 
 
 
